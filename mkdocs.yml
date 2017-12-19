@@ -25,7 +25,7 @@ extra:
     accent: 'purple'
   disqus: 'www-goffinet-org'
   logo:
-    icon: 'school'
+    icon: 'dashboard'
   social:
     - type: 'github'
       link: 'https://github.com/goffinet'
