@@ -70,14 +70,3 @@ markdown_extensions:
 
 pages:
 - 'Le site du Balrog': 'index.md'
-- 'Ecrire en markdow':
-  - "1. Le déploiement continu": '01-01-deploiement-continu.md'
-  - "2. Générateur de site statique": '01-02-generateur-de-site-statique.md'
-  - "3. Gestionnaire de version Git et service GitHub": '01-03-gestionnaire-de-version-git-et-github.md'
-  - "4. Planification du projet": '01-04-planification-du-projet.md'
-  - "5. Service Netlify": '01-05-service-netlify.md'
-  - "6. Configuration DNS": '01-06-configuration-dns.md'
-  - "7. HTTPS gratuit à la demandes": '01-07-https-gratuit-a-la-demande.md'
-  - "8. Personnalisation du projet": '01-08-personalisation-du-projet.md'
-- '2. Autre projets avec générateur de site statique': 'autres-projets-avec-generateur-de-site-statique.md'
-- '3. Apprendre à écrire en Markdown': 'noway.md'
